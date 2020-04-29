@@ -1,4 +1,7 @@
 
+***자세한 내용은 포트폴리오PDF를 확인해주세요.***
+
+<br><br>
 
 > ## Spin Off
 ![SpinOff](Mobile1_full_LOW.gif)

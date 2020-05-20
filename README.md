@@ -28,5 +28,5 @@
 <br><br>
 <br><br>
 
-> ## GoolgeVR
+> ## GoogeVR
 ![GoogleVR](VRgoogle_full.gif)

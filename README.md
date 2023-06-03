@@ -3,8 +3,8 @@
 
 <br><br>
 
-1-1 캡스톤디자인 모바일게임 프로젝트 [Relic Colldector]
-> ## Spin Off
+1-1 캡스톤디자인 모바일게임 프로젝트 
+> ## [Relic Colldector]
 ![SpinOff](Mobile1_full_LOW.gif)
 ![Cubric fighter](Mobile2_full_1_LOW.gif)
 ![Cubric fighter](Mobile2_full_2_LOW.gif)
@@ -14,6 +14,7 @@
 <br><br>
 
 1-2 기타 진행 프로젝트
+> ## 실감 프로젝트 등
 ![매사냥](VRgoogle_full.gif)
 ![FloatingCastle](FloatingCastle.gif)
 ![BoundingBall](BoundingBall.gif)
@@ -44,14 +45,14 @@
 ![360VIEW](360VIEW.gif)
 ![리듬게임](RythmeGame.gif)
 
-> ## 연구소기업 R&D 손동작 콘텐츠 5종
+> ## 연구소기업 R&D 손동작 훈련 콘텐츠 5종
 ![펀치게임(주먹)](PunchGame.gif)
 ![축구게임(손바닥펴기)](SoccerGame.gif)
 ![노노그램(검지로찌르기)](Nonogram.gif)
 ![핸드건게임(엄지움직이기)](HandgunGame.gif)
 ![다트게임(엄지,검지움직이기)](DartGame.gif)
 
-> ## 연구소기업 R&D 뇌파입력 콘텐츠 4종
+> ## 연구소기업 R&D 뇌파입력 훈련 콘텐츠 4종
 ![화살쏘기(뇌파를 안정시켰다가 높이기)](ArcheryGame.gif)
 ![발란스게임(뇌파를 평균값으로 유지시키기)](BalanceGame.gif)
 ![플래피버드(뇌파를 순간적으로 높여보기)](Flappybird.gif)

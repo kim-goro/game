@@ -4,7 +4,7 @@
 <br><br>
 
 1-1 캡스톤디자인 모바일게임 프로젝트 
-> ## [Relic Colldector]
+> ## [Relic Collector]
 ![SpinOff](Mobile1_full_LOW.gif)
 ![Cubric fighter](Mobile2_full_1_LOW.gif)
 ![Cubric fighter](Mobile2_full_2_LOW.gif)
